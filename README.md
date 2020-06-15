@@ -6,7 +6,9 @@ Simple hashing algorithm - multiplies each string character unicode value by one
 ## Code
 https://github.com/George9Waller/HashAlgorithm/blob/master/HashAlgorithm/Program.cs
 <br/>
+
 ## Console Output
+
 ```console
 First Name - Last Name - Age - Coolness
 0 Edwin - Largo - 20 Years, 2 Months, 18 Days - 8
